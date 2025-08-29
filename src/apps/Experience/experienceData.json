@@ -1,0 +1,50 @@
+{
+  "experience": [
+    {
+      "id": "nexzap-intern",
+      "company": "NEXZAP",
+      "role": "SDE Intern",
+      "duration": "2024 - 2025",
+      "description": "Worked on developing and optimizing web applications with a focus on performance and scalability. Contributed to building features, debugging issues, and collaborating with the product team to deliver efficient solutions.",
+      "technologies": [
+        { "name": "Python", "icon": "python.svg" },
+        { "name": "React", "icon": "react.svg" },
+        { "name": "JavaScript", "icon": "javascript.svg" },
+        { "name": "Node.js", "icon": "node.svg" },
+        { "name": "MongoDB", "icon": "mongo.svg" },
+        { "name": "Git", "icon": "git.svg" },
+        { "name": "Docker","icon": "docker.svg"}
+      ],
+      "image": null
+    },
+    {
+        "id": "personal-projects",
+        "company": "Personal Projects",
+        "role": "Software Developer",
+        "duration": "2022 - Present",
+        "description": "Developed various personal projects to enhance my skills in web and app development along with AI/ML. These projects include a portfolio website, a task management app, and a blog platform.",
+        "technologies": [
+            { "name": "HTML", "icon": "html.svg" },
+            { "name": "CSS", "icon": "css.svg" },
+            { "name": "JavaScript", "icon": "javascript.svg" },
+            { "name": "React", "icon": "react.svg" },
+            { "name": "Flutter", "icon": "flutter.svg" },
+            { "name": "Firebase", "icon": "firebase.svg" },
+            { "name": "Git", "icon": "git.svg" }
+        ],
+        "image": null
+    }
+  ],
+  "education": [
+    {
+      "id": "griet",
+      "degree": "B.Tech",
+      "field": "Electronics and Communication Engineering (ECE) with Minors in AI/ML",
+      "institution": "Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)",
+      "duration": "2022 - 2026",
+      "description": "Studied core Electronics and Communication Engineering along with a Minor in Artificial Intelligence & Machine Learning. Key areas include Data Structures & Algorithms, Web Development, and Applied AI/ML.",
+      "gpa": null,
+      "image": null
+    }
+  ]
+}

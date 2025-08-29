@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "title": "MyEvacuate",
+      "source": null,
+      "live": "https://myevacuate.vercel.app",
+      "description": "Cross-platform disaster-evacuation app with real-time GPS tracking, safe-zone navigation, and push/SMS alerts (Flutter + FastAPI).",
+      "tag": "App",
+      "videoPath": "/assets/projects/myevacuate.mp4"
+    },
+    {
+      "title": "LUCAS — AI Copilot for Azure",
+      "source": null,
+      "live": null,
+      "description": "RAG-powered chatbot that answers from uploaded documents and Azure Data Lake using FastAPI, React/TS, OpenAI + Cohere embeddings.",
+      "tag": "AI",
+      "videoPath": "/assets/projects/lucas.mp4"
+    },
+    {
+      "title": "MindHaven — Mental Health Classifier",
+      "source": null,
+      "live": null,
+      "description": "BERT-based NLP classifier deployed with Streamlit to detect early mental-health indicators (85%+ precision).",
+      "tag": "NLP",
+      "videoPath": "/assets/projects/mindhaven.mp4"
+    },
+    {
+      "title": "MalArrest — Static Malware Detection",
+      "source": null,
+      "live": null,
+      "description": "Machine-learning pipeline (scikit-learn/XGBoost) for binary malware classification using static analysis; 90%+ accuracy.",
+      "tag": "ML",
+      "videoPath": "/assets/projects/malarrest.mp4"
+    },
+    {
+      "title": "Portfolio Website",
+      "source": null,
+      "live": "https://meahnaf.vercel.app",
+      "description": "Personal portfolio showcasing AI/ML and full-stack projects; optimized metadata/OG for share previews.",
+      "tag": "Web",
+      "videoPath": "/assets/projects/portfolio.mp4"
+    }
+  ]
+}
