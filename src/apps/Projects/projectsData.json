@@ -10,7 +10,7 @@
     },
     {
       "title": "LUCAS — AI Copilot for Azure",
-      "source": null,
+      "source": "https://github.com/meahnaf/LUCAS",
       "live": null,
       "description": "RAG-powered chatbot that answers from uploaded documents and Azure Data Lake using FastAPI, React/TS, OpenAI + Cohere embeddings.",
       "tag": "AI",
@@ -18,7 +18,7 @@
     },
     {
       "title": "MindHaven — Mental Health Classifier",
-      "source": null,
+      "source": "https://github.com/meahnaf/MindHaven",
       "live": null,
       "description": "BERT-based NLP classifier deployed with Streamlit to detect early mental-health indicators (85%+ precision).",
       "tag": "NLP",
@@ -26,7 +26,7 @@
     },
     {
       "title": "MalArrest — Static Malware Detection",
-      "source": null,
+      "source": "https://www.linkedin.com/posts/mdahnafali_abstract-for-mal-arrest-activity-7138224836811649025-erZu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADs0wrkB9jA2rF-uq-JZfx4tYO1kFwmy4zA",
       "live": null,
       "description": "Machine-learning pipeline (scikit-learn/XGBoost) for binary malware classification using static analysis; 90%+ accuracy.",
       "tag": "ML",
@@ -35,7 +35,7 @@
     {
       "title": "Portfolio Website",
       "source": null,
-      "live": "https://meahnaf.vercel.app",
+      "live": "https://ahnafali.vercel.app",
       "description": "Personal portfolio showcasing AI/ML and full-stack projects; optimized metadata/OG for share previews.",
       "tag": "Web",
       "videoPath": "/assets/projects/portfolio.mp4"

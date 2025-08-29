@@ -15,6 +15,19 @@ Includes a **macOS-style Terminal**, **Startup screen**, **Experience & Educatio
 
 ---
 
+
+### Desktop Layout
+![Desktop Screenshot](screenshots\desktop.png)
+
+### Startup Screen
+![Startup Screenshot](./screenshots/startup.png)
+
+
+
+
+
+---
+
 ## 📂 Project Structure
 src/
 ├── apps/
